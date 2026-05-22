@@ -1,1 +1,31 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/k0gFYy-y)
+# Meu Projeto
+
+Projeto criado para praticar Git e GitHub.
+
+---
+
+## Descrição
+
+Este projeto demonstra o uso de versionamento com GitHub.
+
+---
+
+## Instalação
+
+Clone o repositório:
+
+```bash
+git clone https://github.com/DacompMiniCursos/aula-2-github-e-colabora-o-lucksvolch.git
+```
+
+---
+
+## Como usar
+
+Abra a pasta do projeto e execute os arquivos necessários.
+
+---
+
+## Autor
+
+Lucas
