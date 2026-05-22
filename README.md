@@ -20,7 +20,9 @@ git clone https://github.com/DacompMiniCursos/aula-2-github-e-colabora-o-lucksvo
 
 ---
 
-## Como usar
+## repositorio do colega(intermediario):
+https://github.com/dinizvic/calculadora-basica-clone.git
+
 
 Abra a pasta do projeto e execute os arquivos necessários.
 
